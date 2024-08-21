@@ -10,12 +10,12 @@ I'm a passionate developer who enjoys working with modern technologies solutions
 ⭐ My Stacks
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/8c72e92ccdede766f4a2e8587a5c4e1c6b175568/topics/nodejs/nodejs.png" alt="Node.js"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/5ccfcd7b12163a473bc44d03794b540d8b84c48b/topics/nestjs/nestjs.png" alt="NestJS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/5ccfcd7b12163a473bc44d03794b540d8b84c48b/topics/serverless/serverless.png" alt="SST"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/869ebf131b19e5b047054b9a5f3f5176b238357e/topics/mongodb/mongodb.png" alt="Mongoose"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/95c7f4c47d60759571d4717fcb47d5fe7b3f9dfd/topics/serverless/serverless.png" alt="SST"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/69f9d6e6b8b3d95cf8b7dd23445e24b83a7eaaa3/topics/mongodb/mongodb.png" alt="Mongoose"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/379d6dc6fbe043a5a2bdf4d71fd38d7ae81b7051/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/tools/insomnia.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://avatars.githubusercontent.com/u/474329?s=200&v=4" alt="Insomnia"/></code>
 
 🌱 Currently Learning
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/827e2f2d86210b7f4d8c3b7d71c20bbd1c3b0a07/topics/react/react.png" alt="React"/></code>
