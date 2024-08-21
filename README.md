@@ -1,4 +1,3 @@
-![One Piece Banner]((https://imgur.com/gallery/one-piece-banner-qu33K8v))
 
 # Hey there!
 
