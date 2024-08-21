@@ -15,7 +15,6 @@ I'm a passionate developer who enjoys working with modern technologies solutions
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/95c7f4c47d60759571d4717fcb47d5fe7b3f9dfd/topics/serverless/serverless.png" alt="SST"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/69f9d6e6b8b3d95cf8b7dd23445e24b83a7eaaa3/topics/mongodb/mongodb.png" alt="Mongoose"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/379d6dc6fbe043a5a2bdf4d71fd38d7ae81b7051/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://avatars.githubusercontent.com/u/474329?s=200&v=4" alt="Insomnia"/></code>
 
 🌱 Currently Learning
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/827e2f2d86210b7f4d8c3b7d71c20bbd1c3b0a07/topics/react/react.png" alt="React"/></code>
