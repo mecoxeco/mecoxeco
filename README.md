@@ -13,7 +13,6 @@ I'm a passionate developer who enjoys working with modern technologies solutions
 <code><img height="32" src="src/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
 <code><img height="32" src="src/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
 <code><img height="32" src="src/icons/nestjs/nestjs-original.svg" alt="NestJS"/></code>
-<code><img height="32" src="src/icons/sst/sstpng.svg" alt="SST"/></code>
 <code><img height="32" src="src/icons/mongoose/mongoose-original.svg" alt="Mongoose"/></code>
 <code><img height="32" src="src/icons/insomnia/insomnia-original.svg" alt="Insomnia"/></code>
 
@@ -25,3 +24,4 @@ I'm a passionate developer who enjoys working with modern technologies solutions
 <code><img height="32" src="src/icons/docker/docker-original.svg" alt="Docker"/></code>
 <code><img height="32" src="src/icons/swagger/swagger-original.svg" alt="Swagger"/></code>
 <code><img height="32" src="src/icons/prisma/prisma-original.svg" alt="Prisma"/></code>
+<code><img height="32" src="src/icons/sst/sstpng.svg" alt="SST"/></code>
