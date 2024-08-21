@@ -1,4 +1,4 @@
-![One Piece Banner](https://i.imgur.com/4BLtXho.png)
+![One Piece Banner]([https://i.imgur.com/4BLtXho.png](https://imgur.com/gallery/one-piece-banner-qu33K8v))
 
 # Hey there!
 
