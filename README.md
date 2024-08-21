@@ -24,4 +24,4 @@ I'm a passionate developer who enjoys working with modern technologies solutions
 <code><img height="32" src="src/icons/docker/docker-original.svg" alt="Docker"/></code>
 <code><img height="32" src="src/icons/swagger/swagger-original.svg" alt="Swagger"/></code>
 <code><img height="32" src="src/icons/prisma/prisma-original.svg" alt="Prisma"/></code>
-<code><img height="32" src="src/icons/sst/sstpng.svg" alt="SST"/></code>
+
