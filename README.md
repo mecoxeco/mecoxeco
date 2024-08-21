@@ -7,7 +7,7 @@ I'm a passionate developer who enjoys working with modern technologies solutions
 
 💬 Contact Me: Feel free to reach out if you have any questions or want to collaborate on exciting projects. I'm always open to learning new things and sharing knowledge!
 
-🚀 My Skills
+⭐ My Stacks
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
