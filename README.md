@@ -1,3 +1,5 @@
+![One Piece Banner](https://i.imgur.com/4BLtXho.png)
+
 # Hey there!
 
 💜 Yo! My name is Otávio!
