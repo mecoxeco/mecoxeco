@@ -2,7 +2,7 @@
 # Hey there!
 
 💜 Yo! My name is Otávio!
-I'm a passionate developer who enjoys working with modern technologies solutions. My focus is on backend development, but I'm also diving into frontend frameworks 
+I'm a passionate developer who enjoys working with modern technologies solutions. My focus is on backend development, but I'm also diving into frontend frameworks and cloud solutions!
 
 🔭 Current Project: I'm currently working on a serverless project using SST, Serverless and TypeScript, aiming to optimize ETL processes between AWS Redshift and S3. This project integrates multiple data sources, including APIs and CSV files, into a data lake architecture.
 
