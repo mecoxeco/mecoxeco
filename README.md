@@ -17,6 +17,7 @@ I'm a passionate developer who enjoys working with modern technologies solutions
 <code><img height="32" src="src/icons/insomnia/insomnia-original.svg" alt="Insomnia"/></code>
 
 ## 🌱 Currently Learning
+<code><img height="32" src="src/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/></code>
 <code><img height="32" src="src/icons/react/react-original.svg" alt="React"/></code>
 <code><img height="32" src="src/icons/express/express-original.svg" alt="Express"/></code>
 <code><img height="32" src="src/icons/flutter/flutter-original.svg" alt="Flutter"/></code>
