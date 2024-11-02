@@ -1,11 +1,12 @@
 
 # Hey there!
 
-💜 Yo! My name is Otávio!
-I'm a passionate developer who enjoys working with modern technologies solutions. My focus is on backend development, but I'm also diving into frontend frameworks and cloud solutions!
+💜 About Me:
+Yo! I'm Otávio,
+i’m a passionate developer who enjoys working with modern technology solutions. My primary focus is on DevOps and backend development, but I’m also diving into frontend frameworks and cloud solutions. Currently, I'm studying Software Engineering, enhancing my skills to create robust and efficient applications.
 
-
-💬 Contact Me: Feel free to reach out if you have any questions or want to collaborate on exciting projects. I'm always open to learning new things and sharing knowledge!
+💬 Contact Me: If you have any questions or want to collaborate on projects, feel free to reach out. I'm always eager to learn new things and share knowledge.
+You can find me on [LinkedIn](https://www.linkedin.com/in/otavioluquejs/) or reach out via email at sunandmoonjs@icloud.com.
 
 ## ⭐ My Stacks
 
@@ -15,16 +16,20 @@ I'm a passionate developer who enjoys working with modern technologies solutions
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" title="NestJS"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40" title="Insomnia"/> 
 </div>
 
 
-
-
 ## 🌱 Currently Learning
 <div>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" title="AmazonWebServices"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" title="Swagger"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" title="PrismaORM"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" title="ViteJS"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="40" height="40" title="ViteJS"/>
   
 </div>
 
